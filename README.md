@@ -7,3 +7,5 @@ Steps to make this work:
 4. Click Load unpacked
 5. Select the file
 6. Boxel rebound Hacked will now be in your chrome extensions
+This mod makes you fly and take no damage
+if you choose to use boxel rebound even more scuffed, then every level is level 1, so no challenge i guess
